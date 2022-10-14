@@ -1,1 +1,1 @@
-This is a bigdata project repository.
+This is a bigdata project repository of Final Project Group 8.

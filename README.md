@@ -27,13 +27,13 @@ AWS Region: US East (N. Virginia) us-east-1
 ## Business Problem or Opportunity, Domain Knowledge 
 As the population increases day-by-day the demand for houses increases side by side. Predicting housing prices based on the characteristics of a locality is the task at hand. During the COVID-19 pandemic era, the demand for houses has increased rapidly. During this process, we should identify the most significant features in the California Housing Dataset. The real Estate domain is the most earning field in the world. Most realtors may not be able to provide a good house to the customers. We will be using machine learning techniques to predict California housing prices.
 ## Research Objectives and Questions
-~ Find the location where the highest total rooms located?  
+~ Find the location where the highest total rooms are located?  
 
 ~ What is the median house value in accordance with median housing age in different ocean proximities? 
 
 ~ How median house value can be compared with median house income?
 
-~ What is the estimated value of the price in that location?
+~ What is the estimated value of the price in that specific location?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

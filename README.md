@@ -16,7 +16,9 @@ As the population increases day-by-day the demand for houses increases side by s
 ## Research Objectives and Questions
 ~ Find the location where the highest total rooms located?  
 ~ need to enter
+
 ~ Predict the most populated location which have the highest number of total rooms?
+
 ~ What is the estimated value of the price in that location?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -42,6 +42,7 @@ As the population increases day-by-day the demand for houses increases side by s
 
 ## Deliverable 2
 5. Data Understanding
+
 a) Exploratory Data Analysis
 
 Exploratory Data Analysis was done through AWS Sagemaker. View the rendered file here: Exploratory Data Analysis(link need to attach)

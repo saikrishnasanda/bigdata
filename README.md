@@ -41,7 +41,7 @@ As the population increases day-by-day the demand for houses increases side by s
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Deliverable 2
-5. Data Understanding
+5.Data Understanding
 
 a) Exploratory Data Analysis
 

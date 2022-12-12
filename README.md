@@ -47,7 +47,7 @@ b) Dashboard
 
 Dashboard instances were created using AWS Quicksight and rendered as PDF files; however, due to billing limitations, the Dashboard instances are shutdown after analysis. The PDF extracts are available below. Additionally, these dashboards are analyzed in the Results section as a tool for evaluating the research objectives and questions.
 
-<embed src="/bigdata/Project Files/AWS Quicksight.pdf" type="application/pdf">
+[PDF Link](Project Files/AWS Quicksight.pdf)
 
 6. Data Preparation
 Data preparation was done at all levels of the project, including preliminary analysis of the dataset structures documented in the Open Dataset Registry. Data preparation activities include interpreting column data properly based on the tool being utilized, considering outlier data, invalid values, performing data manipulation, and more. Data preparation activities also included determining the most efficient tool to use in order to answer questions set forth by the research objectives and questions.

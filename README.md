@@ -74,8 +74,20 @@ Using Amazon SageMaker, we performed Machine learning and analytics for predicti
 [Click Here to View the results](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/AWS%20Sagemaker/house%20price%20prediction.ipynb)
 
 ## Evaluation and Optimization
-
+Performing machine learning on AWS will boosts the running computations. The machine learning model like Random forest which helps to find the predicted median house value in the data, along with random forest we used Catboost which adds best solutions with out parameter tuning that reduces time spent on parameter tuning because CatBoost provides effective results with default parameters. Using Scatter plot for visualizing the predicted house values, based on the positive correlations of the plot helps the data scientist to analyse the stats for better understanding. By optimizing the models for the best fit, a scatter chat can help in setting up models
 
 ## Results
 ### What is the actual value of the price and predicted value of the price of the house?
-Here the main aim to display the results by showing the comparision between the actual median_house_price vs predicted median_house_price. The results 
+Here the main aim to display the results by showing the comparision between the actual median_house_price vs predicted median_house_price. The scatter plot explains all the comparison between the values. The results are displayed below.
+![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/prediction.png)
+
+
+### Find the location where the highest total rooms are located?
+Using this visualization box we can understand at what area of location have the highest number of total rooms. We can see from below bar chart that <1H Ocean from ocean proximity column (location of houses located with respect to ocean) area has the highest number of total rooms. 
+
+There are a total number of 9,034 bedrooms in total in that area. So we can make assumption that this area contains the big houses or many houses.
+![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Highest%20rooms%20located.jpg)
+
+### What is the median house value in accordance with median housing age in different ocean proximities?
+
+

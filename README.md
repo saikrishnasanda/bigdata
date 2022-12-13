@@ -39,7 +39,7 @@ What is the actual value of the price and predicted value of the price of the ho
 
 Find the location where the highest total rooms are located?  
 
-What is the median house value in accordance with median housing age in different ocean proximities? 
+What is the median house value in accordance with median house age in different ocean proximities? 
 
 How median house value can be compared with median house income?
 
@@ -79,6 +79,8 @@ Performing machine learning on AWS will boosts the running computations. The mac
 ## Results
 ### What is the actual value of the price and predicted value of the price of the house?
 Here the main aim to display the results by showing the comparision between the actual median_house_price vs predicted median_house_price. The scatter plot explains all the comparison between the values. The results are displayed below.
+
+The nodes represents in the scatter plot are in the high positive corelation with 85 percentage of root squared values where the plots are present in one cluster displays the best accuracy of the median_house_price.
 ![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/prediction.png)
 
 
@@ -88,6 +90,7 @@ Using this visualization box we can understand at what area of location have the
 There are a total number of 9,034 bedrooms in total in that area. So we can make assumption that this area contains the big houses or many houses.
 ![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Highest%20rooms%20located.jpg)
 
-### What is the median house value in accordance with median housing age in different ocean proximities?
-
+### What is the median house value in accordance with median house age in different ocean proximities?
+Presnting the 
+![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Median%20House%20price%20vs%20Median%20house%20age.jpg)
 

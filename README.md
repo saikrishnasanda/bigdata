@@ -124,3 +124,5 @@ No, We didn’t find any bias among ourselves.  We helped each other while doing
 
 ### What future work would you like to do? 
 Gathering more data source and performing better models to evaluate good results that users can get. Deploying this model into user interface so that it can help users to find best location with good houses that they can afford.
+
+## Presentation Video

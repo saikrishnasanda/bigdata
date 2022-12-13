@@ -38,9 +38,9 @@ As the population increases day-by-day the demand for houses increases side by s
 
 ~ What is the estimated value of the price in that specific location?
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Deliverable 2
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Understanding
 
 a) Exploratory Data Analysis
@@ -56,4 +56,8 @@ Dashboard instances were created using AWS Quicksight and rendered as PDF files.
 
 
 ## Data Preparation
-Data preparation was done at all levels of the project, including preliminary analysis of the dataset structures documented in the Open Dataset Registry. Data preparation activities include interpreting column data properly based on the tool being utilized, considering outlier data, invalid values, performing data manipulation, and more. Data preparation activities also included determining the most efficient tool to use in order to answer questions set forth by the research objectives and questions.
+At every stage of the project, data preparation was done, including an initial study of the dataset structures listed in the Open Dataset Registry. Data preparation tasks include reading column data correctly based on the tool being used, taking into account anomalous data, erroneous values, manipulating the data, and more. Finding the most effective instrument to utilize to address the questions posed by the research objectives and questions was another activity included in data preparation. We found some null values in total_bed_rooms column in the dataset and filled that with the median of the values from the same column.
+
+# Deliverable 3  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Analytics, Machine Learning

@@ -35,13 +35,13 @@ AWS Region:
 As the population increases day-by-day the demand for houses increases side by side. Predicting housing prices based on the characteristics of a locality is the task at hand. During the COVID-19 pandemic era, the demand for houses has increased rapidly. During this process, we should identify the most significant features in the California Housing Dataset. The real Estate domain is the most earning field in the world. Most realtors may not be able to provide a good house to the customers. We will be using machine learning techniques to predict California housing prices.
 
 ## Research Objectives and Questions
+~ What is the actual value of the price and predicted value of the price of the house?
+
 ~ Find the location where the highest total rooms are located?  
 
 ~ What is the median house value in accordance with median housing age in different ocean proximities? 
 
 ~ How median house value can be compared with median house income?
-
-~ What is the estimated value of the price in that specific location?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -69,3 +69,12 @@ At every stage of the project, data preparation was done, including an initial s
 # Deliverable 3  
 
 ## Analytics, Machine Learning
+Using Amazon SageMaker, we performed Machine learning and analytics for predicting the results. We used different types of barcharts, scatter plots, Heatmaps to view the results. The dataset was train and tested with random forest and CatBoost algorithms and printed the root mean square(RMSE) and R-square. These two gave the best results. So, we combined the two models to get final prediction. 
+
+[Click Here to View the results](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/AWS%20Sagemaker/house%20price%20prediction.ipynb)
+
+## Evaluation and Optimization
+
+
+## Results
+

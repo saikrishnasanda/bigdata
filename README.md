@@ -41,7 +41,7 @@ Find the location where the highest total rooms are located?
 
 What is the median house value in accordance with median house age in different ocean proximities? 
 
-How median house value can be compared with median house income?
+How median house value can be compared with median income?
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -91,6 +91,18 @@ There are a total number of 9,034 bedrooms in total in that area. So we can make
 ![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Highest%20rooms%20located.jpg)
 
 ### What is the median house value in accordance with median house age in different ocean proximities?
-Presnting the 
+Presenting the visualization for the house value against the  house age in all different ocean proximity locations. This helps us to understand how old the house age is and it tell the house value and it helps people to understand wheather the house value is suitable for that particular house age. Many people will see in a particular way that how old the house is and the value will be increased or decreased according to the market values. 
+
+We can see that the median value of house in Inland location for the house age of 2 is 164,400. Simillarly we can observe the different value of median houses at different locations for different house ages.
+
 ![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Median%20House%20price%20vs%20Median%20house%20age.jpg)
+
+### How median house value can be compared with median income?
+We can compare the values of median house value and median income using scatter plot. This gives the easy understanding about the what level of income people are purchasing the what value of median house value.
+
+Suppose, for example we can see the people median income with 0 to 5 million are purchasing the house value worth range between 75,000 to 200,000. We can understand like this many people with that income range are looking to buy houses with in the above mentioned house value range.
+
+![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Analysis%20between%20median%20house%20value%20and%20median%20income.png)
+
+## Future Work, Comments
 

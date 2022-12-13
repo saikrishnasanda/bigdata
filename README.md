@@ -1,16 +1,20 @@
 # Big-Data-Group-8
 This project is a part of the ITCS 6100 - Big Data Analytics for Competitive Advantage course from the University of North Carolina at Charlotte.
 # Deliverable 1
+
 ## Team Members
 * Kousik Varma Dandu
 * Dinesh Reddy Chinnamallaiahgari
 * Reddy Sai Krishna Sanda
 * Sheshi Rekha Guntuka
+
 ## Communication plan
 Zoom meetings, Atkins Library, Slack. 
 We plan to communicate 3 times per week through zoom or in-person meetings based on the availability of the group members. The meetings will last for 2-3 hrs each. 
+
 ## Dataset
 Canvas-sample-housing.csv: In this dataset, we will find data about the characteristics associated with a particular housing price. We can use this dataset to predict housing prices. With this dataset, use the Numeric prediction model type. The link to the dataset can be found here. https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 ## Selection of Data
 California Housing Prices
 
@@ -29,6 +33,7 @@ AWS Region:
 
 ## Business Problem or Opportunity, Domain Knowledge 
 As the population increases day-by-day the demand for houses increases side by side. Predicting housing prices based on the characteristics of a locality is the task at hand. During the COVID-19 pandemic era, the demand for houses has increased rapidly. During this process, we should identify the most significant features in the California Housing Dataset. The real Estate domain is the most earning field in the world. Most realtors may not be able to provide a good house to the customers. We will be using machine learning techniques to predict California housing prices.
+
 ## Research Objectives and Questions
 ~ Find the location where the highest total rooms are located?  
 
@@ -38,9 +43,10 @@ As the population increases day-by-day the demand for houses increases side by s
 
 ~ What is the estimated value of the price in that specific location?
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Deliverable 2
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Data Understanding
 
 a) Exploratory Data Analysis
@@ -58,6 +64,8 @@ Dashboard instances were created using AWS Quicksight and rendered as PDF files.
 ## Data Preparation
 At every stage of the project, data preparation was done, including an initial study of the dataset structures listed in the Open Dataset Registry. Data preparation tasks include reading column data correctly based on the tool being used, taking into account anomalous data, erroneous values, manipulating the data, and more. Finding the most effective instrument to utilize to address the questions posed by the research objectives and questions was another activity included in data preparation. We found some null values in total_bed_rooms column in the dataset and filled that with the median of the values from the same column.
 
-# Deliverable 3  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Deliverable 3  
+
 ## Analytics, Machine Learning

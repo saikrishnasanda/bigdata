@@ -16,11 +16,11 @@ We plan to communicate 3 times per week through zoom or in-person meetings based
 Canvas-sample-housing.csv: In this dataset, we will find data about the characteristics associated with a particular housing price. We can use this dataset to predict housing prices. With this dataset, use the Numeric prediction model type. The link to the dataset can be found here. https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ## Selection of Data
-California Housing Prices
+California Housing Prices Data
 
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
-Description:  ```California housing prices```
+Description:  ```California housing prices Dataset```
 
 Resource type: 
 ```S3 Bucket```

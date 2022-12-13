@@ -20,7 +20,7 @@ California Housing Prices
 
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
-Description:  ```California housing process```
+Description:  ```California housing prices```
 
 Resource type: 
 ```S3 Bucket```

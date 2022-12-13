@@ -106,3 +106,21 @@ Suppose, for example we can see the people median income with 0 to 5 million are
 
 ## Future Work, Comments
 
+### What was unique about the data? Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment? Imputation?
+The median income which provides individual income of the location that can help to suggest the quality of the house according to income. 
+Resampling with different ratios of the data according to particular location for better outputs.
+Filling the empty values in columns Total_bedrooms, Total_rooms with mean values of the respective columns to full fill the data that missing.
+Finding the outlier of the column median_house_price by Z-score method which gives outliers of the column and equalizing with the mean of the column to fit the data.
+Filling the empty values with mean of the respective column and removing the unwanted data from the data. The duplicate values will conflict while running the model.
+
+### Did you create any new additional features / variables?
+The new column bed_per_room that added by dividing total_bed_rooms/total_rooms which gives the individual bed rooms per house so that will helps us to get find the ratio of the bed rooms present is the total rooms.
+
+### What was the process you used for evaluation?  What was the best result?
+Finding the best solutions for the know data is challenging, for evaluation of the model comes under the accuracy provided by the model. The results that evaluated helps to find the good affordable house in specific location.
+
+### Is there Bias in your work? What were the problems you faced? How did you solve them?
+No, We didn’t find any bias among ourselves.  We helped each other while doing this project. The main problem is working with AWS for developing machine learning with tools its challenging to work but it helps us a lot by providing all required tools at one place and provides good performance. Getting access for the tool and the credits pays more while developing a model in aws for using tools.
+
+### What future work would you like to do? 
+Gathering more data source and performing better models to evaluate good results that users can get. Deploying this model into user interface so that it can help users to find best location with good houses that they can afford.

@@ -35,6 +35,8 @@ AWS Region:
 As the population increases day-by-day the demand for houses increases side by side. Predicting housing prices based on the characteristics of a locality is the task at hand. During the COVID-19 pandemic era, the demand for houses has increased rapidly. During this process, we should identify the most significant features in the California Housing Dataset. The real Estate domain is the most earning field in the world. Most realtors may not be able to provide a good house to the customers. We will be using machine learning techniques to predict California housing prices.
 
 ## Research Objectives and Questions
+We are trying to predict the house price in the California area by using a few machine learning techniques and representing the data visually by using different types of graphs. This helps people to find houses according to their flexibility. 
+
 What is the actual value of the price and predicted value of the price of the house?
 
 Find the location where the highest total rooms are located?  

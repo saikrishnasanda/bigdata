@@ -54,11 +54,11 @@ How median house value can be compared with median income?
 
 a) Exploratory Data Analysis
 
-Exploratory Data Analysis was done through AWS Sagemaker. View the rendered file here: Exploratory Data Analysis(link need to attach)
+Exploratory Data Analysis was done through AWS Sagemaker. View the rendered file here: [Exploratory Data Analysis](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/AWS%20Sagemaker/Exploratory%20Data%20Analysis.ipynb)
 
 b) Dashboard
 
-Dashboard instances were created using AWS Quicksight and rendered as PDF files. The PDF extracts are available below. Additionally, these dashboards are analyzed in the Results section as a tool for evaluating the research objectives and questions.
+AWS Quicksight was used to construct dashboard instances, which were then displayed as PDF documents. The PDF file can be found below. These dashboards are also examined in the Results section as a tool for addressing the goals and issues of the research.
 
 [Click Here For Dashboards](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/AWS%20Quicksight/AWS%20Quicksight.pdf)
 

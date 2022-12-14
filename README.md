@@ -88,7 +88,7 @@ The nodes represents in the scatter plot are in the high positive corelation wit
 
 
 ### Find the location where the highest total rooms are located?
-Using this visualization box we can understand at what area of location have the highest number of total rooms. We can see from below bar chart that <1H Ocean from ocean proximity column (location of houses located with respect to ocean) area has the highest number of total rooms. 
+Using this visualization box we can understand at what area of location have the highest number of total rooms. We can see from below bar chart that "<1H Ocean" from ocean proximity column (location of houses located with respect to ocean) area has the highest number of total rooms. 
 
 There are a total number of 9,034 bedrooms in total in that area. So we can make assumption that this area contains the big houses or many houses.
 ![alt text](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/Results/Highest%20rooms%20located.jpg)

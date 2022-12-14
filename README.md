@@ -54,7 +54,7 @@ How median house value can be compared with median income?
 
 a) Exploratory Data Analysis
 
-Exploratory Data Analysis was done through AWS Sagemaker. View the rendered file here: [Exploratory Data Analysis](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/AWS%20Sagemaker/Exploratory%20Data%20Analysis.ipynb)
+Through AWS Sagemaker, exploratory data analysis was carried out. The related file can be seen here.: [Exploratory Data Analysis](https://github.com/saikrishnasanda/bigdata/blob/main/Project%20Files/AWS%20Sagemaker/Exploratory%20Data%20Analysis.ipynb)
 
 b) Dashboard
 
